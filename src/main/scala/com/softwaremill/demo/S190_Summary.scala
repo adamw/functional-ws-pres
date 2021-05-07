@@ -12,6 +12,7 @@ object S190_Summary {
   /*
   Links:
   - [this presentation](https://github.com/adamw/functional-ws-pres)
+  - [blog post](https://blog.softwaremill.com/functional-pancakes-cf70023f0dcb)
 
   - [http4s](https://http4s.org)
   - [cats-effect](https://typelevel.org/cats-effect/)
